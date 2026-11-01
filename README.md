@@ -1,1 +1,1 @@
-# Analisis de imagen
+# Análisis de imagen
